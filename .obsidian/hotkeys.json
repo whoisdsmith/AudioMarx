@@ -1,0 +1,19 @@
+{
+  "swiss-army-knife:replace-doubled-empty-lines-with-single": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "0"
+    }
+  ],
+  "extract-url:extract-url": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "deduplicateUrls": true,
+  "ignoreFileProperty": true,
+  "useAlias": false,
+  "showFavicon": true,
+  "showIndicatorIcon": true,
+  "hoverLinkPreview": true,
+  "copyFormat": "inlineLink",
+  "cacheMode": "memoryCache",
+  "noticeMode": "none"
+}

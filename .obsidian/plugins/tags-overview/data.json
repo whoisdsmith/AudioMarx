@@ -1,0 +1,20 @@
+{
+  "filterAnd": true,
+  "displayType": "compact",
+  "sortTags": "name",
+  "sortFiles": "name",
+  "keepFilters": true,
+  "storedFilters": "database",
+  "showRelatedTags": true,
+  "showCalendarDates": true,
+  "dateFormat": "YYYY-MM-DD",
+  "tableColumns": [
+    {
+      "type": "name"
+    },
+    {
+      "type": "modified",
+      "align": "right"
+    }
+  ]
+}

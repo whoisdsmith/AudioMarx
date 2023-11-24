@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "1df681d52c94f9b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dcf458a03a5cdbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b009eb2a5f0882aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSV2MD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c2d7bf6cbfefc44",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bf250db085be0fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67cbe19d9aeecf72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ab58fc767f4cd4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8bd43d0c4705c57",
+            "type": "leaf",
+            "state": {
+              "type": "oblogger-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "f84b463af2d5d01b",
+    "type": "split",
+    "children": [
+      {
+        "id": "38786571e24c51a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c497042b6b094d11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSV2MD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66a9e0f04900ec3c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSV2MD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02947e4cf5f85774",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6061f39206a4e691",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSV2MD.md"
+              }
+            }
+          },
+          {
+            "id": "cb94a8b0fe0bdd75",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "4a6a3314b1e9486f",
+            "type": "leaf",
+            "state": {
+              "type": "tags-overview-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7032f0df32c708bb",
+            "type": "leaf",
+            "state": {
+              "type": "relation-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": true,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false,
+      "obsidian-markbase:Sync all Markbase projects": false,
+      "templater-obsidian:Templater": false,
+      "tag-page-md:Refresh tag page": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
+      "tags-overview:Tags overview": false,
+      "mixa:Publish to thecasketdiaries.mixa.site with Mixa": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
+    }
+  },
+  "active": "b009eb2a5f0882aa",
+  "lastOpenFiles": [
+    "AudioMarx.md",
+    "Project Database/Attachments/a56681bf6ffc381e39400e83b42e153b_MD5.jpg",
+    "Project Database/Attachments/8beb25757b34517d2b7c4f5c1e6d8d90_MD5.jpg",
+    "Project Database/Attachments/b5fba0d63514328c644e4f83ae659fcc_MD5.jpg",
+    "Project Database/Attachments/49e77420c9cb589ecc844f90a0080f25_MD5.jpg",
+    "Project Database/Attachments/956da32efc136e2f9bf46814b42651ea_MD5.jpg",
+    "Project Database/Attachments/069ab4307f1296e9db66212b584bdfe3_MD5.jpg",
+    "Project Database/Attachments/0fae49e02cb0268a093397621ab74367_MD5.jpg",
+    "Project Database/Attachments/b2cc3bad630d099044bc2bae0bfd82fe_MD5.jpg",
+    "Project Database/Attachments/8b0208b5dc882ae6ebdc4de04de11b27_MD5.jpg",
+    "Project Database/Attachments/ae25cb167284ad1711c02b6ca1fd1a8c_MD5.jpg",
+    "CSV2MD 1.md",
+    "Untitled.md",
+    "Paradox/Paradox Lyrics.md",
+    "CSV2MD.md",
+    "index.md",
+    "index.html",
+    "attachment",
+    "I Am The Reaper/I Am The Reaper Album.md",
+    "The Casket Diaries.md",
+    "Gravedigger/Gravedigger Lyrics.md",
+    "Endings/Endings.md",
+    "Epilogue/Epilogue.md",
+    "Prologue/Prologue Lyrics.md",
+    "Releases.md",
+    "Singles/Tyler Wayne Long is a Bitch.md",
+    "Epilogue/Anotherlife.md",
+    "Singles/Singles.md",
+    "Singles/Revenger.md",
+    "Singles/Life on Repeat.md",
+    "Singles/Heart Emoji.md",
+    "Singles/A Molly Jolly Christmas.md",
+    "Project Database/Attachments",
+    "Project Database",
+    "Gravedigger/Lifetaker.md",
+    "Gravedigger/Backstabber.md",
+    "Gravedigger/Betrayer.md",
+    "Gravedigger/Desolater.md",
+    "Gravedigger/Entry VI.md",
+    "Attachments",
+    "Images/endingsalbumart.jpg.opdownload",
+    "Singles/Untitled",
+    "Singles",
+    "SoundCloud Embeds",
+    "SoundCloud"
+  ]
+}
