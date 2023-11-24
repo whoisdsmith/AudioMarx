@@ -2,7 +2,7 @@
 
 ---
 
-### Dumb
+## Dumb
 
 ![](https://rdl.ink/render/https%3A%2F%2Fsing.whatever.social%2F)
 
@@ -13,7 +13,7 @@
 
 ---
 
-### Find Music By Lyrics
+## Find Music By Lyrics
 
 ![](https://findmusicbylyrics.com/img/logo.png)
 
@@ -24,7 +24,7 @@
 
 ---
 
-### FMLyrics
+## FMLyrics
 
 ![](https://rdl.ink/render/https%3A%2F%2Ffmlyrics.netlify.app%2F)
 
@@ -35,7 +35,7 @@
 
 ---
 
-### Genius Lyrics Card Maker
+## Genius Lyrics Card Maker
 
 ![](https://lyrics-card-maker.vercel.app/preview-image.jpg)
 
@@ -46,7 +46,7 @@
 
 ---
 
-### Genius Song Lyrics
+## Genius Song Lyrics
 
 ![](https://storage.googleapis.com/kaggle-datasets-images/2805070/4840139/bb085b63a5fd185b9266057b9724b4a1/dataset-card.png?t=2023-01-11-20-21-14)
 
@@ -57,7 +57,7 @@
 
 ---
 
-### Intellectual
+## Intellectual
 
 ![](https://rdl.ink/render/https%3A%2F%2Fintellectual.insprill.net%2F)
 
@@ -68,7 +68,7 @@
 
 ---
 
-### Lyrical
+## Lyrical
 
 ![](https://images.genius.com/6132f071bdd3c86a220e59c6aab609fa.1000x1000x1.png)
 
@@ -79,7 +79,7 @@
 
 ---
 
-### LyricFind
+## LyricFind
 
 ![](http://static1.squarespace.com/static/5f972a7c930e1b7910954135/t/62df01f03505b563ed695391/1660918856868/LF-LinkedIn_Company-Profile.jpg?format=1500w)
 
@@ -90,7 +90,7 @@
 
 ---
 
-### Song Lyrics
+## Song Lyrics
 
 ![](https://www.azlyricdb.com/logo.gif)
 
@@ -101,7 +101,7 @@
 
 ---
 
-### SongMeanings
+## SongMeanings
 
 ![](https://songmeanings.com/images/img10.webp)
 
@@ -111,3 +111,5 @@
 **Tags:** #audio #lyrics
 
 ---
+
+Next Page [[Audio Management]]
