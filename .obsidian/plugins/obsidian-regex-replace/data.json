@@ -1,7 +1,7 @@
 {
-  "findText": "![",
-  "replaceText": "![]",
-  "useRegEx": false,
+  "findText": "^## ",
+  "replaceText": "## Audio ",
+  "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,
   "processLineBreak": false,

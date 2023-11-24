@@ -37,7 +37,6 @@
   "text-transform",
   "swiss-army-knife",
   "oblogger",
-  "obsidian-markbase",
   "obsidian-relation-pane",
   "templater-obsidian",
   "tag-page-md",
@@ -50,7 +49,11 @@
   "tags-overview",
   "change-case",
   "copy-as-html",
-  "mixa",
   "yet-another-obsidian-synchronizer",
-  "obsidian-linter"
+  "obsidian-linter",
+  "mixa",
+  "notes-merger",
+  "dataview",
+  "obsidian-tagfolder",
+  "tag-wrangler"
 ]

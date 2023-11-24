@@ -1,6 +1,9 @@
-# CSV2MD ChatGPT Template
-
+# CSV2MD 
 ---
+
+>This is a template I use for ChatGPT to convert exported CSV bookmarks from Raindrop.io into Markdown Format.
+
+## ChatGPT Template
 
 Please convert this CSV of Bookmarks to a structured markdown file. I will provide you examples and give you directions on how to format and structure. The csv file has 7 columns.
 

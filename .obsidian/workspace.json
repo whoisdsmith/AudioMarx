@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSV2MD.md",
+                "file": "AudioMarx.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSV2MD.md",
+                "file": "AudioMarx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSV2MD.md",
+                "file": "AudioMarx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSV2MD.md"
+                "file": "AudioMarx.md"
               }
             }
           },
@@ -148,21 +148,13 @@
               "type": "tags-overview-view",
               "state": {}
             }
-          },
-          {
-            "id": "7032f0df32c708bb",
-            "type": "leaf",
-            "state": {
-              "type": "relation-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 343.5,
+    "width": 293.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -173,20 +165,33 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
       "obsidian42-brat:BRAT": false,
-      "obsidian-regex-pipeline:Regex Rulesets": false,
-      "obsidian-markbase:Sync all Markbase projects": false,
+      "obsidian-regex-pipeline:Regex Rulesets": true,
       "templater-obsidian:Templater": false,
       "tag-page-md:Refresh tag page": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
       "tags-overview:Tags overview": false,
-      "mixa:Publish to thecasketdiaries.mixa.site with Mixa": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "mixa:Publish with Mixa": false,
+      "notes-merger:NotesMerger": false
     }
   },
   "active": "b009eb2a5f0882aa",
   "lastOpenFiles": [
+    "CSV2MD.md",
     "AudioMarx.md",
+    "Audio Tools.md",
+    "Audio Stats.md",
+    "Audio Spotify.md",
+    "Audio Smartlinks.md",
+    "Audio Misc.md",
+    "Audio Management.md",
+    "Audio Lyrics.md",
+    "Audio Information.md",
+    "Audio Downloads.md",
+    "Audio Distribution.md",
+    "Audio Database.md",
+    "Audio Catalog.md",
     "Project Database/Attachments/a56681bf6ffc381e39400e83b42e153b_MD5.jpg",
     "Project Database/Attachments/8beb25757b34517d2b7c4f5c1e6d8d90_MD5.jpg",
     "Project Database/Attachments/b5fba0d63514328c644e4f83ae659fcc_MD5.jpg",
@@ -200,7 +205,6 @@
     "CSV2MD 1.md",
     "Untitled.md",
     "Paradox/Paradox Lyrics.md",
-    "CSV2MD.md",
     "index.md",
     "index.html",
     "attachment",
@@ -212,19 +216,8 @@
     "Prologue/Prologue Lyrics.md",
     "Releases.md",
     "Singles/Tyler Wayne Long is a Bitch.md",
-    "Epilogue/Anotherlife.md",
-    "Singles/Singles.md",
-    "Singles/Revenger.md",
-    "Singles/Life on Repeat.md",
-    "Singles/Heart Emoji.md",
-    "Singles/A Molly Jolly Christmas.md",
     "Project Database/Attachments",
     "Project Database",
-    "Gravedigger/Lifetaker.md",
-    "Gravedigger/Backstabber.md",
-    "Gravedigger/Betrayer.md",
-    "Gravedigger/Desolater.md",
-    "Gravedigger/Entry VI.md",
     "Attachments",
     "Images/endingsalbumart.jpg.opdownload",
     "Singles/Untitled",
