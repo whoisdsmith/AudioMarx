@@ -2,6 +2,13 @@
 
 ---
 
+![[tools.jpg]]
+
+
+>The "Audio Lyrics" category includes a range of online platforms and services dedicated to providing song lyrics and related information. These platforms cater to music enthusiasts, researchers, and anyone interested in understanding or finding the lyrics of songs. Each of these platforms offers unique functionalities, from simple lyric searching to community discussions about song meanings, and professional services for lyric licensing. They are tagged with #audio and #lyrics, indicating their primary focus on providing lyric-related content and services. These resources are invaluable for those seeking to explore the textual dimension of music, from casual listeners to professional lyricists and music scholars.
+
+---
+
 ## Dumb
 
 ![](https://rdl.ink/render/https%3A%2F%2Fsing.whatever.social%2F)

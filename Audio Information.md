@@ -2,6 +2,13 @@
 
 ---
 
+![[info.jpg]]
+
+
+>The "Audio Information" category encompasses a variety of platforms offering detailed information, databases, and tools related to audio content. These services cater to professionals in the music industry, researchers, and music enthusiasts. Each of these platforms focuses on providing specific information related to audio content, whether it's for music discovery, licensing, technical information like ISRC and UPC codes, or music management. They are tagged with #audio and various sub-tags like #information, #ISRC, #labels, #licensing, and #UPC, indicating their specialized focus areas within the audio domain. These resources are invaluable for a wide range of users from different sectors of the music and audio industry.
+
+---
+
 ## Adtunes
 
 ![](https://adtunes.com/data/assets/logo/adtunes-logo-og.png)

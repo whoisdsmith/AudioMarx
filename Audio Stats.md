@@ -2,6 +2,13 @@
 
 ---
 
+![[stats.jpg]]
+
+
+>The "Audio Stats" category features a range of platforms that provide statistical insights and data related to music listening habits, artist earnings, and music chart rankings. These platforms cater to music enthusiasts, artists, and industry professionals. Each platform offers unique functionalities, from providing personal listening statistics to offering broader industry insights. They are tagged with #audio and #stats, indicating their focus on providing statistical data and analysis in the audio and music domain. These resources are valuable for those looking to gain insights into music trends, artist earnings, or personal listening habits.
+
+---
+
 ## Album Scrobbles
 
 ![](https://rdl.ink/render/https%3A%2F%2Fwww.albumscrobbles.com%2F)

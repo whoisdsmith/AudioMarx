@@ -2,6 +2,13 @@
 
 ---
 
+![[misc.jpg]]
+
+
+>The "Audio Misc" category includes a diverse range of platforms and services that cater to various audio-related needs, from media management to music insights and analytics. These services are designed for music enthusiasts, artists, and professionals in the music industry. Each platform in this category addresses a unique aspect of audio and music management or analysis. They are tagged with #audio, indicating their focus on providing audio-related services and solutions. These resources are valuable for anyone looking to manage their music collections, gain insights into listening habits, or streamline processes in the music industry.
+
+---
+
 ## Airsonic
 
 ![](https://airsonic.github.io/favicon-200x200.png)
@@ -48,7 +55,7 @@
 
 ## iMusician
 
-- [iMusician](https://imusician.app/dashboard) - iMusician
+- [iMusician](https://imusician.app) - iMusician
 
 **Date:** 2022-08-28T23:17:22.860Z
 **Tags:** #audio

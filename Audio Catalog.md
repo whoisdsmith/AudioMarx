@@ -2,6 +2,13 @@
 
 ---
 
+![[catalog.jpg]]
+
+
+>The "Catalog" category encompasses a variety of online platforms designed to assist with the management, promotion, and exploitation of music catalogs. These services cater to a wide range of users including record labels, artists, managers, publishers, and rights holders. Each platform offers a unique set of tools and functionalities tailored to the specific needs of those involved in the music industry, making the management of audio assets more efficient and streamlined. This category is pivotal for anyone involved in music production, distribution, and rights management, offering modern, digital solutions for a historically complex and multifaceted industry.
+
+---
+
 ## Infinite Catalog
 
 ![](https://www.infinitecatalog.com/static/images/meta_tag.png)

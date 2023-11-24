@@ -2,6 +2,13 @@
 
 ---
 
+![[stats.jpg]]
+
+
+>The "Audio Database" category features a collection of online platforms providing extensive databases and tools for various aspects of music and sound management. These platforms cater to a diverse audience, including music collectors, artists, record labels, and music enthusiasts. Each platform has its unique focus, ranging from music discovery and trade to data archiving and professional collaboration, making them invaluable resources for various stakeholders in the music industry. They are tagged with #audio and #database, indicating their primary focus on audio-related data management and accessibility.
+
+---
+
 ## Discogs
 
 ![](https://content.discogs.com/media/R-28884-1129555367-300x300.jpg)

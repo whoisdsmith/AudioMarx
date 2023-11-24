@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AudioMarx.md",
+                "file": "Audio Lyrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "c8bd43d0c4705c57",
+            "id": "2cdc62b5b2e30cf4",
             "type": "leaf",
             "state": {
               "type": "oblogger-view",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AudioMarx.md",
+                "file": "Audio Lyrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AudioMarx.md",
+                "file": "Audio Lyrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AudioMarx.md"
+                "file": "Audio Lyrics.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mixa:Publish to audiomarx.mixa.site with Mixa": false,
       "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -172,36 +173,35 @@
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
       "tags-overview:Tags overview": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
-      "mixa:Publish with Mixa": false,
       "notes-merger:NotesMerger": false
     }
   },
-  "active": "67cbe19d9aeecf72",
+  "active": "b009eb2a5f0882aa",
   "lastOpenFiles": [
-    "Audio Tools.md",
-    "Audio Spotify.md",
-    "Audio Stats.md",
-    "Audio Smartlinks.md",
-    "Audio Catalog.md",
-    "Audio Database.md",
-    "Audio Distribution.md",
-    "Audio Downloads.md",
-    "Audio Information.md",
-    "Audio Lyrics.md",
     "Audio Management.md",
     "Audio Misc.md",
+    "Audio Smartlinks.md",
+    "Audio Spotify.md",
     "AudioMarx.md",
+    "Audio Tools.md",
+    "Audio Stats.md",
+    "Audio Lyrics.md",
+    "Audio Downloads.md",
+    "Audio Distribution.md",
+    "Audio Database.md",
+    "Audio Catalog.md",
+    "audiomarx.jpg",
+    "Audio Information.md",
+    "tools.jpg",
+    "stats.jpg",
+    "spot.jpg",
+    "smart.jpg",
+    "misc.jpg",
+    "management.jpg",
+    "info.jpg",
+    "downloads.jpg",
+    "distribution.jpg",
     "CSV2MD.md",
-    "Project Database/Attachments/a56681bf6ffc381e39400e83b42e153b_MD5.jpg",
-    "Project Database/Attachments/8beb25757b34517d2b7c4f5c1e6d8d90_MD5.jpg",
-    "Project Database/Attachments/b5fba0d63514328c644e4f83ae659fcc_MD5.jpg",
-    "Project Database/Attachments/49e77420c9cb589ecc844f90a0080f25_MD5.jpg",
-    "Project Database/Attachments/956da32efc136e2f9bf46814b42651ea_MD5.jpg",
-    "Project Database/Attachments/069ab4307f1296e9db66212b584bdfe3_MD5.jpg",
-    "Project Database/Attachments/0fae49e02cb0268a093397621ab74367_MD5.jpg",
-    "Project Database/Attachments/b2cc3bad630d099044bc2bae0bfd82fe_MD5.jpg",
-    "Project Database/Attachments/8b0208b5dc882ae6ebdc4de04de11b27_MD5.jpg",
-    "Project Database/Attachments/ae25cb167284ad1711c02b6ca1fd1a8c_MD5.jpg",
     "CSV2MD 1.md",
     "Untitled.md",
     "Paradox/Paradox Lyrics.md",
@@ -215,7 +215,6 @@
     "Epilogue/Epilogue.md",
     "Prologue/Prologue Lyrics.md",
     "Releases.md",
-    "Singles/Tyler Wayne Long is a Bitch.md",
     "Project Database/Attachments",
     "Project Database",
     "Attachments",

@@ -2,6 +2,13 @@
 
 ---
 
+![[spot.jpg]]
+
+
+>The "Audio Spotify" category includes a selection of tools and services specifically designed to enhance the Spotify experience for users. These platforms cater to Spotify users looking for additional functionalities, from playlist management to discovering new music. Each of these platforms offers unique functionalities that complement Spotify's features, addressing specific needs or preferences of Spotify users. They are tagged with #audio and #spotify, along with other tags like #stats and #tools, indicating their focus on providing additional services and tools for Spotify users. These resources are particularly valuable for those looking to get more out of their Spotify experience, whether it's through enhanced music discovery, playlist management, or ad-blocking.
+
+---
+
 ## Chart My Music
 
 ![](https://rdl.ink/render/https%3A%2F%2Fwww.chartmymusic.com%2F)

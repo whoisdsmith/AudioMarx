@@ -2,6 +2,13 @@
 
 ---
 
+![[distribution.jpg]]
+
+
+>The "Audio Distribution" category encompasses a wide array of platforms offering diverse services for the distribution of music and audio content. These platforms cater to independent artists, record labels, and music professionals, providing tools and services for digital distribution, marketing, and monetization of music. These platforms are tagged with #audio and #distribution, indicating their focus on distributing audio content through digital channels. They offer a range of solutions for artists and labels to navigate the modern music industry, from traditional distribution to innovative technologies and marketing strategies.
+
+---
+
 ## 3tone Music
 
 ![](https://www.3tonemusic.com/static/media/newLogo.a4a9bd460571db01eff5.png)
